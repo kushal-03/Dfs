@@ -1,3 +1,1 @@
-# Dfs
-
-"Polytechnic College"
+"POLYTECHNIC COLLEGE"
